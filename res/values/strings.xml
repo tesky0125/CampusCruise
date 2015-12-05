@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, CampusCruiseActivity!</string>
+	<string name="app_name">CampusCruise</string>
+	<string name="str_rd_loc">Location</string>
+	<string name="str_rd_search">Search</string>
+	<string name="str_describe_demo">Wuhan university of science and technology of
+		computer college in yujiatou campus \n At present,there are computer college with
+		computer science and technology, software engineering, physical
+		networking engineering three undergraduate professionals and a network
+		engineering undergraduate professional pilot. There have \"computer science
+		and technology as the first level subject doctor\'s degrees award
+		authority,\" computer science and technology as the first level subject
+		master\'s degree award authority, \"computer technology\" and "software
+		engineering" master of engineering degree of architecture and
+		\"computer application technology\" teacher in university master degree
+		of architecture. \"Computer application technology\" for the Hubei
+		province key discipline, formed from undergraduate to graduate and
+		professional doctor degree education complete training system.
+	</string>
+</resources>

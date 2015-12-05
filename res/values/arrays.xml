@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="POS_CAMPUS">Wuhan University of Technology Yujiatou Campus</string>
+	<string name="POS_LAB">Library</string>
+	<string name="POS_APARTMENT_MASTER">Graduate student apartment</string>
+	<string name="POS_CCB">ICBC ATM</string>
+	<string name="POS_MESS_HALL1">The First Dining room</string>
+	<string name="POS_PLAYGROUND">Playground</string>
+	<string name="POS_BOC">The bank of China</string>
+	<string name="POS_APARTMENT_AREA1">Suburb one</string>
+	<string name="POS_APARTMENT_AREA2">Suburb two</string>
+	<string name="POS_APARTMENT_AREA3">Suburb three and four</string>
+	<string name="POS_APARTMENT_AREA5">Suburb five and six</string>
+	<string name="POS_MESS_HALL3">The Third Dining room</string>
+	<string name="POS_MESS_HALL6">The Sixth Dining room</string>
+	<string name="POS_RECEIPT">Reception center</string>
+	<string name="POS_MARKET3">the Third supermarket</string>
+	<string name="POS_YOUTH_GROUND">Youth park</string>
+	<string name="POS_MAIN_BUILDING">Main building</string>
+	<string name="POS_EAST_BUILDING">East building for computer college</string>
+	<string name="POS_DISTRIBUTE_BUILDING">Logistics college</string>
+	<string name="POS_ALLIENCE">Alliance community</string>
+	<string name="POS_SHIP_ENGINE_BUILDING">Ship machine building</string>
+	<string name="POS_VOYAGE_BUILDING">Navigation building</string>
+	
+	<string-array name="arr_geopoints">
+		<item>@string/POS_CAMPUS</item>
+		<item>@string/POS_LAB</item>
+		<item>@string/POS_APARTMENT_MASTER</item>
+		<item>@string/POS_CCB</item>
+		<item>@string/POS_MESS_HALL1</item>
+		<item>@string/POS_PLAYGROUND</item>
+		<item>@string/POS_BOC</item>
+		<item>@string/POS_APARTMENT_AREA1</item>
+		<item>@string/POS_APARTMENT_AREA2</item>
+		<item>@string/POS_APARTMENT_AREA3</item>
+		<item>@string/POS_APARTMENT_AREA5</item>
+		<item>@string/POS_MESS_HALL3</item>
+		<item>@string/POS_MESS_HALL6</item>
+		<item>@string/POS_RECEIPT</item>
+		<item>@string/POS_MARKET3</item>
+		<item>@string/POS_YOUTH_GROUND</item>
+		<item>@string/POS_MAIN_BUILDING</item>
+		<item>@string/POS_EAST_BUILDING</item>
+		<item>@string/POS_DISTRIBUTE_BUILDING</item>
+		<item>@string/POS_ALLIENCE</item>
+		<item>@string/POS_SHIP_ENGINE_BUILDING</item>
+		<item>@string/POS_VOYAGE_BUILDING</item>
+	</string-array>
+</resources>

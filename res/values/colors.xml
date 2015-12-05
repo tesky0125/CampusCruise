@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<!--ARGB-->
+	<color name="transparent">#00000000</color>
+	
+	<color name="red">#FFFF0000</color>
+	<color name="green">#FF00FF00</color>
+	<color name="blue">#FF0000FF</color>
+	
+	<color name="black">#FF000000</color>
+	<color name="white">#FFFFFFFF</color>
+	
+	<color name="yellow">#FFFFFF00</color>
+	<color name="megenta">#FFFF00FF</color>
+	<color name="cyan">#FF00FFFF</color>
+	
+	<color name="lightgray">#FFC0C0C0</color>
+	<color name="gray">#FF808080</color>
+	<color name="darkgray">#FF404040</color>
+
+	<color name="rd_bg_normal">#AA000000</color>
+ 	<color name="rd_bg_pressed">#AAFFFF00</color>
+</resources>

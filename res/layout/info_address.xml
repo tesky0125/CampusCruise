@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="5dp"
+    android:background="#00000000"
+    >
+    <TextView 
+    	android:text="Introductioin" 
+    	android:id="@+id/textView1" 
+    	android:layout_width="fill_parent" 
+    	android:layout_height="wrap_content"
+    	android:textSize="30sp"
+    	android:layout_marginBottom="10dp"
+    	style="@style/style_font"
+    	></TextView>
+    <LinearLayout
+    	android:orientation="vertical"
+	    android:layout_width="fill_parent"
+	    android:layout_height="150dp"
+	    android:padding="5dp"
+	    android:layout_marginBottom="10dp">
+	    <ImageView 
+	    	android:id="@+id/imageView1" 
+	    	android:src="@drawable/campus" 
+	    	android:layout_width="wrap_content" 
+	    	android:layout_height="wrap_content"
+	    	android:scaleType="fitXY"
+	    	android:background="@drawable/imageview_selector"
+	    	></ImageView>
+    </LinearLayout>
+    <TextView 
+    	android:id="@+id/textView2" 
+    	android:padding="5dp"
+    	style="@style/style_font"
+    	android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/str_describe_demo"></TextView>
+
+</LinearLayout>

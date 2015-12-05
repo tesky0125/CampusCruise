@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="style_radio_btn">
+	    <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">match_parent</item>
+		<item name="android:button">@null</item>
+		<item name="android:layout_weight">1.0</item>
+        <item name="android:gravity">center_horizontal|center_vertical</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/lightgray</item>
+		<item name="android:background">@drawable/rd_background</item>
+	</style>
+	
+    <style name="style_activity_search" parent="android:style/Theme.Translucent">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <!-- <item name="android:windowIsFloating">true</item> -->
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+	
+    <style name="style_activity_info" parent="android:style/Theme.Translucent">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>	
+	
+    <style name="style_activity_main" parent="android:style/Theme.NoTitleBar.Fullscreen">
+    	<item name="android:windowBackground">@drawable/bg_launcher</item>
+    </style>	
+	
+	<style name="style_font">
+		<item name="android:textColor">@color/lightgray</item>
+	</style>
+</resources>
